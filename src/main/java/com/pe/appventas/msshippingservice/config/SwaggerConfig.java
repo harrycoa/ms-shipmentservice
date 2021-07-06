@@ -26,11 +26,11 @@ public class SwaggerConfig {
 
     private ApiInfo getApiInfo() {
         return new ApiInfo(
-                "GeekShirt Shipping Service API",
+                "Shipping Service API",
                 "This API provides all methods required for shipment management",
                 "1.0",
                 "TERMS OF SERVICE URL",
-                new Contact("Centripio","http://centripio.io","centripio.admin@centripio.io"),
+                new Contact("Harry Coa","http://dev.io","rharryc@gmail.com"),
                 "LICENSE",
                 "LICENSE URL",
                 Collections.emptyList()
